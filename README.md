@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor **Full-Stack** focado
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** (https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=flat-square).
+- 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas (ADS)** ![Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=flat-square).
 - 📚 **Estudos Atuais:** Aprimorando conhecimentos através de cursos especializados na **Udemy** (foco em arquitetura web, novas linguagens e boas práticas).
 - 🐍 **Linguagem Principal:** Python (mas com sólida bagagem em diversas linguagens e ecossistemas).
 - 🛠️ **Atuação Atual:** Desenvolvedor Freelancer — criando soluções sob medida, projetos pessoais e treinos práticos.
