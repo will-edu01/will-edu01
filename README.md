@@ -8,6 +8,8 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor **Full-Stack** focado
 
 ### 👨‍💻 Sobre Mim
 
+- 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas (ADS)**.
+- - 📚 **Estudos Atuais:** Aprimorando conhecimentos através de cursos especializados na **Udemy** (foco em arquitetura web, novas linguagens e boas práticas).
 - 🐍 **Linguagem Principal:** Python (mas com sólida bagagem em diversas linguagens e ecossistemas).
 - 🛠️ **Atuação Atual:** Desenvolvedor Freelancer — criando soluções sob medida, projetos pessoais e treinos práticos.
 - 🎯 **Objetivo:** Em busca de uma **oportunidade no mercado de trabalho** (Full-time / Junior / Pleno) para aplicar minhas habilidades, colaborar com o time e evoluir continuamente.
