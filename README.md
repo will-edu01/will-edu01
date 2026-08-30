@@ -37,15 +37,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor **Full-Stack** focado
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=will-edu01&show_icons=true&theme=dark&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-edu01&layout=compact&theme=dark&hide_border=true" height="150" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
 ### 📌 Projetos em Destaque
 
 - 🔹 **[Agenda Digital](https://github.com/will-edu01/Agenda_Digital)** - Aplicação web desenvolvida com Django e MySQL
