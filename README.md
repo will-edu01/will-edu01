@@ -45,6 +45,14 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor **Full-Stack** focado
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=will-edu01&show_icons=true&count_private=true&theme=dracula)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=will-edu01&layout=compact&theme=dracula)
+
+---
+
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-eduardo-277a532b3/)
