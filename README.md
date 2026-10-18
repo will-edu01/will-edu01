@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o William! 
+# 👋 Olá, me chamo William! 
 
 ### 🚀 Desenvolvedor Full-Stack | Python, Node.js & Django
 
@@ -49,3 +49,4 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor **Full-Stack** focado
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-eduardo-277a532b3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.eduardo.souza.assis@gmail.com)
+[![Instagram](https://www.instagram.com/will._edu01?mdxt=MTJkMTJlYmZzNzJ5Nw==)]
