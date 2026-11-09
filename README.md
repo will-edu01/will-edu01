@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Full-Stack | Python, Node.js & Django
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor **Full-Stack** focado em construir soluções web eficientes, escaláveis e funcionais. Tenho grande paixão por resolver problemas com código e estou constantemente expandindo meus conhecimentos e saindo da zona de conforto.
+Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor **Full-Stack**. Tenho grande paixão por resolver problemas com código e estou constantemente expandindo meus conhecimentos e saindo da zona de conforto.
 
 ---
 
